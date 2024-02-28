@@ -1,0 +1,14 @@
+C:\EDUCATION\C#\Finish\FinalProject\bin\Debug\net7.0\FinalProject.exe
+C:\EDUCATION\C#\Finish\FinalProject\bin\Debug\net7.0\FinalProject.deps.json
+C:\EDUCATION\C#\Finish\FinalProject\bin\Debug\net7.0\FinalProject.runtimeconfig.json
+C:\EDUCATION\C#\Finish\FinalProject\bin\Debug\net7.0\FinalProject.dll
+C:\EDUCATION\C#\Finish\FinalProject\bin\Debug\net7.0\FinalProject.pdb
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfoInputs.cache
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.AssemblyInfo.cs
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.dll
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\refint\FinalProject.dll
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.pdb
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\FinalProject.genruntimeconfig.cache
+C:\EDUCATION\C#\Finish\FinalProject\obj\Debug\net7.0\ref\FinalProject.dll
